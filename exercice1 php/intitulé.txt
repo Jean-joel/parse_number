@@ -1,0 +1,3 @@
+Faire un formulaire qui retourne le numero de 10 chiffre
+en se basant sur la numerotation officiel
+05267960=>0505267960
